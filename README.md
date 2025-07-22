@@ -31,8 +31,9 @@ An interactive and animated SVG-based arrow shooting game built with HTML, JavaS
 
 ## 📸 Screenshots
 
-![Screenshot 1](https://github.com/yourusername/arrow-game/assets/screenshot1.png)
-![Screenshot 2](https://github.com/yourusername/arrow-game/assets/screenshot2.png)
+<img width="1890" height="904" alt="image" src="https://github.com/user-attachments/assets/7047ba4d-c236-4e05-b30e-df6bcd72d6a4" />
+<img width="1882" height="893" alt="image" src="https://github.com/user-attachments/assets/72c988fa-bea2-4869-99d4-ce9af9b12056" />
+
 
 ---
 
